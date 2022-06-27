@@ -1,0 +1,286 @@
+.random {
+    background-color: #f8d030;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     border: 4px solid;
+     border-color: #1F6EE9;
+     width: 200px;
+ }
+
+ .fire {
+    background-color: #F08030;
+    border: 4px solid #9C531F;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+.water {
+    background-color: #6890F0;
+    border: 4px solid #445E9C;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+.electric {
+    background-color: #F8D030;
+    border: 4px solid #A1871F;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+.grass {
+    background-color: #78C850;
+    border: 4px solid #4E8234;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+.ice {
+    background-color: #98D8D8;
+    border: 4px solid #638D8D;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+.ground {
+    background-color: #E0C068;
+    border: 4px solid #927D44;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+.flying {
+    background-color: #A890F0;
+    border: 4px solid #6D5E9C;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+.ghost {
+    background-color: #705898;
+    border: 4px solid #493963;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+.rock {
+    background-color: #B8A038;
+    border: 4px solid #786824;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+.fighting {
+    background-color: #C03028;
+    border: 4px solid #7D1F1A;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+.poison {
+    background-color: #A040A0;
+    border: 4px solid #682A68;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+.psychic {
+    background-color: #F85888;
+    border: 4px solid #A13959;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+.bug {
+    background-color: #A8B820;
+    border: 4px solid #6D7815;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+.dark {
+    background-color: #705848;
+    border: 4px solid #49392F;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+.steel {
+    background-color: #B8B8D0;
+    border: 4px solid #787887;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+.dragon {
+    background-color: #7038F8;
+    border: 4px solid #4924A1;
+    font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+.fairy {
+ background-color: #d875e7;
+ border: 4px solid #4924A1;
+ font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+}
+
+ .normal {
+     background-color: #A8A878;
+     border: 4px solid #6D6D4E;
+     font-family: "Early Gameboy";
+    margin: 0px;
+     padding: 10px 16px 10px 16px;
+     border-radius: 12px;
+     -webkit-border-radius: 12px; 
+     -moz-border-radius: 12px;
+     -o-border-radius: 12px;
+     font-size: 20px;
+     color: #FFF;
+     width: 200px;
+ } 
+
